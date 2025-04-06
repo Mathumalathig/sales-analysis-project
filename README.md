@@ -1,8 +1,7 @@
 🛍️ Sales Analysis Project : 
 
-📊 Overview : 
-
-    This project involves a detailed sales analysis of a fictional dataset representing sales across various Australian states, customer groups, and time periods. The analysis was conducted using Python and Jupyter Notebook.
+📊 Overview :  
+ This project involves a detailed sales analysis of a fictional dataset representing sales across various Australian states, customer groups, and time periods. The analysis was conducted using Python and Jupyter Notebook.
 
 🎯 Objective :  
           To extract insights and patterns from the sales data to understand:
@@ -27,6 +26,5 @@
 
           Markdown for reporting
 
-📌 Conclusion : 
-
+📌 Conclusion :  
         The project successfully identified buying trends and helped answer key sales questions. It can serve as a baseline for further advanced analytics, including forecasting and product-level insights.
